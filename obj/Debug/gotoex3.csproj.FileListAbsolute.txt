@@ -1,0 +1,8 @@
+F:\Day - 2\gotoex3\gotoex3\bin\Debug\gotoex3.exe.config
+F:\Day - 2\gotoex3\gotoex3\bin\Debug\gotoex3.exe
+F:\Day - 2\gotoex3\gotoex3\bin\Debug\gotoex3.pdb
+F:\Day - 2\gotoex3\gotoex3\obj\Debug\gotoex3.csproj.AssemblyReference.cache
+F:\Day - 2\gotoex3\gotoex3\obj\Debug\gotoex3.csproj.SuggestedBindingRedirects.cache
+F:\Day - 2\gotoex3\gotoex3\obj\Debug\gotoex3.csproj.CoreCompileInputs.cache
+F:\Day - 2\gotoex3\gotoex3\obj\Debug\gotoex3.exe
+F:\Day - 2\gotoex3\gotoex3\obj\Debug\gotoex3.pdb
